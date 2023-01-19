@@ -2,7 +2,6 @@
 #include <conio.h>
 #include <windows.h>
 #include <stdio.h>
-#include <thread>
 
 using namespace std;
 
